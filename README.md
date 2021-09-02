@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things :rofl:
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=zpj80231&show_icons=true&hide_border=true" />
 
 <br/>
-Check for a detailed stats here :point_right: [zpj80231](https://sourcerer.io/zpj80231)
+Check for a detailed stats here :point_right: <a href="https://sourcerer.io/zpj80231">zpj80231</a>
 
 ##### :hammer: Languages and Tools
 
