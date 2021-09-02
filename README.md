@@ -21,6 +21,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=zpj80231&show_icons=true&hide_border=true" />
 
+<br/>
 Check for a detailed stats here :point_right: [zpj80231](https://sourcerer.io/zpj80231)
 
 ##### :hammer: Languages and Tools
@@ -37,7 +38,7 @@ Check for a detailed stats here :point_right: [zpj80231](https://sourcerer.io/zp
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-GO-659ad2?style=flat&logo=GO&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-darkkhaki?style=flat&logo=mysql&logoColor=EEEEEE">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-GO-659ad2?style=flat&logo=GO&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-darkkhaki?style=flat&logo=mysql&logoColor=EEEEEE">
 
 <br/><br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
